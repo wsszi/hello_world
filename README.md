@@ -4,7 +4,3 @@ jkjkjkkkkkkkkkkk
 
 
 author =wsszi
-author =wsszi
-
-author =wsszi
-author =wsszi
